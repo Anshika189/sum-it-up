@@ -5,3 +5,4 @@
 *.png
 *.mov
 temp_*
+.env

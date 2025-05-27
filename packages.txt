@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 ffmpeg
+=======
+
+ffmpeg
+>>>>>>> 33dc10f (Add dependencies for Streamlit Cloud)
